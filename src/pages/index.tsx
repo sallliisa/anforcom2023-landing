@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <header className={styles.headerContainer}>
         <div className={styles.header}>
-          <Image className={styles.logo} src={'/svgs/anforcom.svg'} alt='Anforcom 2022' width={64} height={64} />
+          <Image className={styles.logo} src={'/svgs/anforcom.svg'} alt='Anforcom 2023' width={64} height={64} />
           <h1 className={styles.title}>Anforcom 2023</h1>
           <p className={styles.description}>
             Anforcom (Annual Informatics Competition) adalah serangkaian acara dan perlombaan yang diadakan Mahasiswa
